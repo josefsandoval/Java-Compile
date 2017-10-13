@@ -1,0 +1,27 @@
+package classbpackage;
+
+import java.util.Scanner;
+
+
+
+public class ClassB 
+{
+	String name;
+	int x = 10;
+	
+	ClassB(String x)
+	{
+		this.name = name;
+	}
+	
+
+	public void method()
+	{
+
+	}
+	
+	public int getNumber()
+	{
+		return 0;
+	}
+}

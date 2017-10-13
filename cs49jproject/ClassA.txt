@@ -1,0 +1,24 @@
+package cs49jproject;
+
+import javautilScanner;
+import java.util.Regex;
+
+import classbpackage;
+
+public class ClassA 
+{
+		int x;
+		int number = 10;
+		String name;
+		
+		ClassA(String n, int x)
+		{
+			this.name = name;
+			this.x = x;
+		}	
+			
+		public void methodTwo(int age)
+		{
+			ClassB c = new ClassB(name);
+		}
+}
